@@ -1,7 +1,7 @@
 import os
 from selenium import webdriver
 
-chrome_path = "/usr/bin/google-chrome"  # Replace with the actual path to your Chrome binary
+chrome_path = "/home/luckace/Downloads"  # Replace with the actual path to your Chrome binary
 
 chrome_options = webdriver.ChromeOptions()
 chrome_options.binary_location = chrome_path
